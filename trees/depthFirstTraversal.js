@@ -1,25 +1,9 @@
-import { Node } from "./binaryTree.js";
+import { createTree } from "./binaryTree.js";
 
-function createTree() {
-  const a = new Node("a");
-  const b = new Node("b");
-  const c = new Node("c");
-  const d = new Node("d");
-  const e = new Node("e");
-  const f = new Node("f");
-  a.left = b;
-  a.right = c;
-  b.left = d;
-  b.right = e;
-  c.right = f;
-  return a;
-}
-
-function dfs(tree) {
+export function dfsNormal(tree) {
   //initiating the stack and the final values
-  let stack = [];
+  let stack = [tree];
   let values = [];
-  stack.push(tree);
   //runs until the stack is empty
   while (stack.length != 0) {
     let current = stack.pop();
@@ -30,6 +14,12 @@ function dfs(tree) {
   return values;
 }
 
+export function dfsRecursive(tree) {
+  if (tree === null) return [];
+  return [tree.val, ...dfsRecursive(tree.left), ...dfsRecursive(tree.right)];
+}
+
 //getting the binary tree
 const tree = createTree();
-console.log(dfs(tree));
+console.log(dfsNormal(tree));
+console.log(dfsRecursive(tree));
