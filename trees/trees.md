@@ -38,4 +38,5 @@ It is important to push the second child first because -
 Here if we pushed B first and then C into the stack - while reading the value from the top we will pick up C(the right node) instead of B(the left node). And the output would not be an ideal DFS on binary tree
 
 _Time Complexity_ - **O(n)** - It only goes through all the nodes once
+
 _Space Complexity_ - **O(n)** - The stacks adds only a count of total nodes at max
