@@ -79,3 +79,5 @@ Also something important is that we need to only work with leaf nodes not the nu
 
 1. Invert Binary Tree - https://neetcode.io/problems/invert-a-binary-tree/question?list=neetcode150
 2. Maximum Depth of Binary Tree - https://neetcode.io/problems/depth-of-binary-tree/question?list=neetcode150
+3. Diameter of Binary Tree - https://neetcode.io/problems/binary-tree-diameter/question
+4. Balanced Binary Tree - https://neetcode.io/problems/balanced-binary-tree/history?list=neetcode150&submissionIndex=0
