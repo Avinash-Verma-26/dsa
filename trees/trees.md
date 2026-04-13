@@ -85,3 +85,4 @@ Also, something important is that we need to only work with leaf nodes, not the 
 5. Same Binary Tree - https://neetcode.io/problems/same-binary-tree/history?submissionIndex=3
 6. Subtree of Another Tree - https://neetcode.io/problems/subtree-of-a-binary-tree/question?list=neetcode150
 7. Lowest Common Ancestor in Binary Search Tree - https://neetcode.io/problems/lowest-common-ancestor-in-binary-search-tree/question
+8. Binary Tree Level Order Traversal - https://neetcode.io/problems/level-order-traversal-of-binary-tree/history?submissionIndex=0
