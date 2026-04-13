@@ -84,4 +84,4 @@ Also, something important is that we need to only work with leaf nodes, not the 
 4. Balanced Binary Tree - https://neetcode.io/problems/balanced-binary-tree/history?list=neetcode150&submissionIndex=0
 5. Same Binary Tree - https://neetcode.io/problems/same-binary-tree/history?submissionIndex=3
 6. Subtree of Another Tree - https://neetcode.io/problems/subtree-of-a-binary-tree/question?list=neetcode150
-7. 
+7. Lowest Common Ancestor in Binary Search Tree - https://neetcode.io/problems/lowest-common-ancestor-in-binary-search-tree/question
