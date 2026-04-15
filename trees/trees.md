@@ -89,3 +89,4 @@ Also, something important is that we need to only work with leaf nodes, not the 
 9. Binary Tree Right Side View - https://neetcode.io/problems/binary-tree-right-side-view/question?list=neetcode150
 10. Count Good Nodes in Binary Tree - https://neetcode.io/problems/count-good-nodes-in-binary-tree/question?list=neetcode150
 11. Valid Binary Search Tree - https://neetcode.io/problems/valid-binary-search-tree/history?submissionIndex=7
+12. Kth Smallest Integer in BST - https://neetcode.io/problems/kth-smallest-integer-in-bst/history?list=neetcode150&submissionIndex=0
