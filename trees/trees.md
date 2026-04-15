@@ -74,7 +74,7 @@ This is a fun problem because the recursive understanding at this point becomes 
 ### Max Root To Leaf Path Sum
 
 Very interesting problem - think of this as any other tree recursion, but only retaining the largest node.
-Also, something important is that we need to only work with leaf nodes, not the nulls beyond it, so we would need an additional check
+Also, something important is that we need to only work with leaf nodes, not the nulls beyond them, so we would need an additional check
 
 ## Problems
 
@@ -86,3 +86,6 @@ Also, something important is that we need to only work with leaf nodes, not the 
 6. Subtree of Another Tree - https://neetcode.io/problems/subtree-of-a-binary-tree/question?list=neetcode150
 7. Lowest Common Ancestor in Binary Search Tree - https://neetcode.io/problems/lowest-common-ancestor-in-binary-search-tree/question
 8. Binary Tree Level Order Traversal - https://neetcode.io/problems/level-order-traversal-of-binary-tree/history?submissionIndex=0
+9. Binary Tree Right Side View - https://neetcode.io/problems/binary-tree-right-side-view/question?list=neetcode150
+10. Count Good Nodes in Binary Tree - https://neetcode.io/problems/count-good-nodes-in-binary-tree/question?list=neetcode150
+11. Valid Binary Search Tree - https://neetcode.io/problems/valid-binary-search-tree/history?submissionIndex=7
