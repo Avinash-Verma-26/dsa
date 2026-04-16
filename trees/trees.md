@@ -90,3 +90,4 @@ Also, something important is that we need to only work with leaf nodes, not the 
 10. Count Good Nodes in Binary Tree - https://neetcode.io/problems/count-good-nodes-in-binary-tree/question?list=neetcode150
 11. Valid Binary Search Tree - https://neetcode.io/problems/valid-binary-search-tree/history?submissionIndex=7
 12. Kth Smallest Integer in BST - https://neetcode.io/problems/kth-smallest-integer-in-bst/history?list=neetcode150&submissionIndex=0
+13. Construct Binary Tree from Preorder and Inorder Traversal - https://neetcode.io/problems/binary-tree-from-preorder-and-inorder-traversal/question
